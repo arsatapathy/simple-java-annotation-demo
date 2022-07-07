@@ -1,0 +1,1 @@
+- This is a <b> simple java annotation demo </b> project
