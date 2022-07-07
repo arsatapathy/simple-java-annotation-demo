@@ -75,7 +75,7 @@ public class JsonParserService {
 
             jsonString = "{" + jsonString + "}";
 
-            LOG.info("Json parsing successful:" + jsonString);
+            LOG.info("Json parsing successful: " + jsonString);
 
             return jsonString;
 
